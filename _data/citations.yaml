@@ -13,6 +13,7 @@
   date: '2026-02-06'
   link: https://doi.org/hbrfkm
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-025-58742-1
@@ -29,6 +30,7 @@
   date: '2025-04-12'
   link: https://doi.org/g9g7vt
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.marenvres.2023.106006
@@ -45,6 +47,7 @@
   date: '2023-06-01'
   link: https://doi.org/hbrfkn
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.scitotenv.2022.153467
@@ -59,6 +62,7 @@
   date: '2022-05-01'
   link: https://doi.org/gv47mt
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11120-021-00882-8
@@ -74,6 +78,7 @@
   date: '2021-11-22'
   link: https://doi.org/hbrfkp
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.aquatox.2021.105973
@@ -89,6 +94,7 @@
   date: '2021-11-01'
   link: https://doi.org/gvzpbj
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/09670262.2021.1896787
@@ -106,6 +112,7 @@
   date: '2021-04-28'
   link: https://doi.org/hbrfkq
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ece3.7179
@@ -120,6 +127,7 @@
   date: '2021-01-27'
   link: https://doi.org/gszt7n
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ece3.6257
@@ -135,6 +143,7 @@
   date: '2020-04-14'
   link: https://doi.org/gp9xbm
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/w12030883
@@ -151,6 +160,7 @@
   date: '2020-03-21'
   link: https://doi.org/gv4rd9
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jpy.12911
@@ -167,6 +177,7 @@
   date: '2019-09-26'
   link: https://doi.org/hbrfkr
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/pre.12370
@@ -182,6 +193,7 @@
   date: '2019-03-20'
   link: https://doi.org/hbrfks
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.7717/peerj.4048
@@ -199,6 +211,520 @@
   date: '2017-11-14'
   link: https://doi.org/gpq5pk
   orcid: 0000-0003-1570-3828
+  name: "Ignacio J. Melero-Jim\xE9nez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17504/protocols.io.81wgbrrjylpk/v2
+  title: A Minimally Invasive Lab Protocol for Fibroblasts Isolation from 1-mm Skin
+    Punch Biopsies in Pediatric Patients v2
+  authors:
+  - "Mar\xEDa Heredia-Torrej\xF3n"
+  - "Bego\xF1a Puga-L\xF3pez"
+  - "Dolores M. Guerrero-L\xF3pez"
+  - Alfonso M. Lechuga-Sancho
+  - "Ra\xFAl Monta\xF1ez"
+  publisher: Springer Science and Business Media LLC
+  date: '2024-12-17'
+  link: https://doi.org/hbrfkw
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17504/protocols.io.81wgbrrjylpk/v1
+  title: A Minimally Invasive Procedure for Fibroblasts Isolation from 1-mm Skin Punch
+    Biopsies in Pediatric Patients v1
+  authors:
+  - "Mar\xEDa Heredia-Torrej\xF3n"
+  - "Bego\xF1a Puga-L\xF3pez"
+  - "Dolores M. Guerrero-L\xF3pez"
+  - Alfonso M. Lechuga-Sancho
+  - "Ra\xFAl Monta\xF1ez"
+  publisher: Springer Science and Business Media LLC
+  date: '2024-12-17'
+  link: https://doi.org/hbrfkx
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13023-024-03307-6
+  title: VUS next in rare diseases? Deciphering genetic determinants of biomolecular
+    condensation
+  authors:
+  - "Mar\xEDa Heredia-Torrej\xF3n"
+  - "Ra\xFAl Monta\xF1ez"
+  - "Antonio Gonz\xE1lez-Meneses"
+  - Atilano Carcavilla
+  - Miguel A. Medina
+  - Alfonso M. Lechuga-Sancho
+  publisher: Orphanet Journal of Rare Diseases
+  date: '2024-09-06'
+  link: https://doi.org/hbrfkz
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12967-023-04337-7
+  title: Altered insulin secretion dynamics relate to oxidative stress and inflammasome
+    activation in children with obesity and insulin resistance
+  authors:
+  - "\xC1lvaro Gonz\xE1lez-Dom\xEDnguez"
+  - "Thal\xEDa Belmonte"
+  - "Jes\xFAs Dom\xEDnguez-Riscart"
+  - "Pablo Ruiz-Oca\xF1a"
+  - "In\xE9s Muela-Zarzuela"
+  - Ana Saez-Benito
+  - "Ra\xFAl Monta\xF1ez-Mart\xEDnez"
+  - Rosa M. Mateos
+  - Alfonso M. Lechuga-Sancho
+  publisher: Journal of Translational Medicine
+  date: '2023-08-20'
+  link: https://doi.org/hbrfk2
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/emmm.202114012
+  title: "Inhibition of the NLRP3 inflammasome improves lifespan in animal murine\
+    \ model of Hutchinson\u2013Gilford Progeria"
+  authors:
+  - "Alvaro Gonz\xE1lez\u2010Dominguez"
+  - "Rau\u0301l Monta\xF1ez"
+  - "Beatriz Castej\xF3n\u2010Vega"
+  - "J\xE9ssica Nu\xF1ez\u2010Vasco"
+  - "D\xE9bora Lendines\u2010Cordero"
+  - Chun Wang
+  - Gabriel Mbalaviele
+  - "Jos\xE9 M Navarro\u2010Pando"
+  - "El\xEDsabet Alcocer\u2010G\xF3mez"
+  - Mario D Cordero
+  publisher: EMBO Molecular Medicine
+  date: '2021-08-27'
+  link: https://doi.org/gq3r6j
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41559-020-1130-9
+  title: "Coexistence of nestedness and modularity in host\u2013pathogen infection\
+    \ networks"
+  authors:
+  - Sergi Valverde
+  - Blai Vidiella
+  - "Ra\xFAl Monta\xF1ez"
+  - Aurora Fraile
+  - "Soledad Sacrist\xE1n"
+  - "Fernando Garc\xEDa-Arenal"
+  publisher: Nature Ecology &amp; Evolution
+  date: '2020-03-09'
+  link: https://doi.org/gjrm3m
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsos.180121
+  title: Population dynamics of synthetic terraformation motifs
+  authors:
+  - "Ricard V. Sol\xE9"
+  - "Ra\xFAl Monta\xF1ez"
+  - Salva Duran-Nebreda
+  - Daniel Rodriguez-Amor
+  - Blai Vidiella
+  - "Josep Sardany\xE9s"
+  publisher: Royal Society Open Science
+  date: '2018-07-01'
+  link: https://doi.org/gsw2zd
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1005689
+  title: Spatial dynamics of synthetic microbial mutualists and their parasites
+  authors:
+  - Daniel R. Amor
+  - "Ra\xFAl Monta\xF1ez"
+  - Salva Duran-Nebreda
+  - "Ricard Sol\xE9"
+  publisher: PLOS Computational Biology
+  date: '2017-08-21'
+  link: https://doi.org/gbr7cw
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4965992
+  title: Spatial self-organization in hybrid models of multicellular adhesion
+  authors:
+  - Adriano Bonforti
+  - Salva Duran-Nebreda
+  - "Ra\xFAl Monta\xF1ez"
+  - "Ricard Sol\xE9"
+  publisher: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+  date: '2016-10-01'
+  link: https://doi.org/gr8644
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27032985
+  title: 'A morphospace for synthetic organs and organoids: the possible and the actual.'
+  authors:
+  - "Aina Oll\xE9-Vila"
+  - Salva Duran-Nebreda
+  - "N\xFAria Conde-Pueyo"
+  - "Ra\xFAl Monta\xF1ez"
+  - "Ricard Sol\xE9"
+  publisher: 'Integrative biology : quantitative biosciences from nano to macro'
+  date: '2016-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27032985
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkv1280
+  title: 'Dealing with the genetic load in bacterial synthetic biology circuits: convergences
+    with the Ohm''s law'
+  authors:
+  - M. Carbonell-Ballestero
+  - E. Garcia-Ramallo
+  - "R. Monta\xF1ez"
+  - C. Rodriguez-Caso
+  - "J. Mac\xEDa"
+  publisher: Nucleic Acids Research
+  date: '2015-12-09'
+  link: https://doi.org/f8cpqh
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c5ib00324e
+  title: 'A morphospace for synthetic organs and organoids: the possible and the actual'
+  authors:
+  - "Aina Oll\xE9-Vila"
+  - Salva Duran-Nebreda
+  - "N\xFAria Conde-Pueyo"
+  - "Ra\xFAl Monta\xF1ez"
+  - "Ricard Sol\xE9"
+  publisher: Integrative Biology
+  date: '2016-01-01'
+  link: https://doi.org/f8xrhf
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsif.2016.0108
+  title: Emergence of proto-organisms from bistable stochastic differentiation and
+    adhesion
+  authors:
+  - Salva Duran-Nebreda
+  - Adriano Bonforti
+  - "Ra\xFAl Monta\xF1ez"
+  - Sergi Valverde
+  - "Ricard Sol\xE9"
+  publisher: Journal of The Royal Society Interface
+  date: '2016-04-01'
+  link: https://doi.org/hbrfk3
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biosystems.2016.01.002
+  title: Synthetic collective intelligence
+  authors:
+  - "Ricard Sol\xE9"
+  - Daniel R. Amor
+  - Salva Duran-Nebreda
+  - "N\xFAria Conde-Pueyo"
+  - Max Carbonell-Ballestero
+  - "Ra\xFAl Monta\xF1ez"
+  publisher: Biosystems
+  date: '2016-10-01'
+  link: https://doi.org/gf5z37
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1418522112
+  title: MiR-2 family regulates insect metamorphosis by controlling the juvenile hormone
+    signaling pathway
+  authors:
+  - Jesus Lozano
+  - "Ra\xFAl Monta\xF1ez"
+  - Xavier Belles
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-03-09'
+  link: https://doi.org/hbrfk4
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13062-015-0064-7
+  title: Synthetic circuit designs for earth terraformation
+  authors:
+  - "Ricard V. Sol\xE9"
+  - "Ra\xFAl Monta\xF1ez"
+  - Salva Duran-Nebreda
+  publisher: Biology Direct
+  date: '2015-07-18'
+  link: https://doi.org/f7tmm9
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gku964
+  title: 'A bottom-up characterization of transfer functions for synthetic biology
+    designs: lessons from enzymology'
+  authors:
+  - Max Carbonell-Ballestero
+  - Salva Duran-Nebreda
+  - "Ra\xFAl Monta\xF1ez"
+  - "Ricard Sol\xE9"
+  - "Javier Mac\xEDa"
+  - "Carlos Rodr\xEDguez-Caso"
+  publisher: Nucleic Acids Research
+  date: '2014-11-17'
+  link: https://doi.org/hbrfk5
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ibmb.2013.08.003
+  title: Regulation of atrophin by both strands of the mir-8 precursor
+  authors:
+  - Mercedes Rubio
+  - "Ra\xFAl Monta\xF1ez"
+  - Lidia Perez
+  - Marco Milan
+  - Xavier Belles
+  publisher: Insect Biochemistry and Molecular Biology
+  date: '2013-11-01'
+  link: https://doi.org/f536vw
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00726-011-1035-7
+  title: A combined model of hepatic polyamine and sulfur amino acid metabolism to
+    analyze S-adenosyl methionine availability
+  authors:
+  - Armando Reyes-Palomares
+  - "Ra\xFAl Monta\xF1ez"
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  - "Miguel \xC1ngel Medina"
+  publisher: Amino Acids
+  date: '2011-08-04'
+  link: https://doi.org/bk4x2j
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep00061
+  title: Exploring and challenging the network of angiogenesis
+  authors:
+  - "Ra\xFAl Monta\xF1ez"
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  - Ana R. Quesada
+  - "Miguel \xC1ngel Medina"
+  publisher: Scientific Reports
+  date: '2011-08-11'
+  link: https://doi.org/bxgscq
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bies.200900145
+  title: 'When metabolism meets topology: Reconciling metabolite and reaction networks'
+  authors:
+  - "Raul Monta\xF1ez"
+  - Miguel Angel Medina
+  - "Ricard V. Sol\xE9"
+  - "Carlos Rodr\xEDguez\u2010Caso"
+  publisher: BioEssays
+  date: '2010-02-16'
+  link: https://doi.org/c5f3jx
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btp061
+  title: 'Systems biology metabolic modeling assistant: an ontology-based tool for
+    the integration of metabolic data in kinetic modeling'
+  authors:
+  - Armando Reyes-Palomares
+  - "Raul Monta\xF1ez"
+  - Alejando Real-Chicharro
+  - Othmane Chniber
+  - Amine Kerzazi
+  - Ismael Navas-Delgado
+  - "Miguel \xC1ngel Medina"
+  - "Jos\xE9 F. Aldana-Montes"
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  publisher: Bioinformatics
+  date: '2009-02-02'
+  link: https://doi.org/dcnq46
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-9-S4-S5
+  title: 'AMMO-Prot: amine system project 3D-model finder'
+  authors:
+  - Ismael Navas-Delgado
+  - "Ra\xFAl Monta\xF1ez"
+  - "Almudena Pino-\xC1ngeles"
+  - "Aurelio A Moya-Garc\xEDa"
+  - "Jos\xE9 Luis Urdiales"
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  - "Jos\xE9 F Aldana-Montes"
+  publisher: BMC Bioinformatics
+  date: '2008-04-01'
+  link: https://doi.org/dxgqzn
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10863-008-9127-0
+  title: Homocysteine is a potent modulator of plasma membrane electron transport
+    systems
+  authors:
+  - "Javier Rodr\xEDguez-Alonso"
+  - "Ra\xFAl Monta\xF1ez"
+  - "Luis Rodr\xEDguez-Caso"
+  - "Miguel \xC1ngel Medina"
+  publisher: Journal of Bioenergetics and Biomembranes
+  date: '2008-01-24'
+  link: https://doi.org/cdcv7w
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00726-007-0502-7
+  title: In silico analysis of arginine catabolism as a source of nitric oxide or
+    polyamines in endothelial cells
+  authors:
+  - "R. Monta\xF1ez"
+  - "C. Rodr\xEDguez-Caso"
+  - "F. S\xE1nchez-Jim\xE9nez"
+  - "M. \xC1. Medina"
+  publisher: Amino Acids
+  date: '2007-05-23'
+  link: https://doi.org/cwb9dt
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-76803-6_12
+  title: 'The Amine System Project: Systems Biology in Practice'
+  authors:
+  - Ismael Navas-Delgado
+  - "Ra\xFAl Monta\xF1ez"
+  - "Miguel \xC1ngel Medina"
+  - "Jos\xE9 Luis Urdiales"
+  - "Jos\xE9 F. Aldana"
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  publisher: Studies in Computational Intelligence
+  date: '2008-01-01'
+  link: https://doi.org/bxgbzw
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1042/BST0350381
+  title: The usefulness of post-genomics tools for characterization of the amine cross-talk
+    in mammalian cells
+  authors:
+  - "F. S\xE1nchez-Jim\xE9nez"
+  - "R. Monta\xF1ez"
+  - F. Correa-Fiz
+  - P. Chaves
+  - "C. Rodr\xEDguez-Caso"
+  - J.L. Urdiales
+  - J.F. Aldana
+  - M.A. Medina
+  publisher: Biochemical Society Transactions
+  date: '2007-03-20'
+  link: https://doi.org/c8mrg8
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00726-007-0521-4
+  title: 'Polyamines: metabolism to systems biology and beyond'
+  authors:
+  - "R. Monta\xF1ez"
+  - "F. S\xE1nchez-Jim\xE9nez"
+  - J. F. Aldana-Montes
+  - "M. \xC1. Medina"
+  publisher: Amino Acids
+  date: '2007-05-21'
+  link: https://doi.org/fcw7vn
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cellimm.2006.12.008
+  title: "Information integration of protein\u2013protein interactions as essential\
+    \ tools for immunomics"
+  authors:
+  - "Ra\xFAl Monta\xF1ez"
+  - Ismael Navas-Delgado
+  - "Miguel \xC1ngel Medina"
+  - "Jos\xE9 F. Aldana-Montes"
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  publisher: Cellular Immunology
+  date: '2006-12-01'
+  link: https://doi.org/cf2gzx
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1194/jlr.M500447-JLR200
+  title: Localization of StarD5 cholesterol binding protein
+  authors:
+  - Daniel Rodriguez-Agudo
+  - Shunlin Ren
+  - Phillip B. Hylemon
+  - "Raul Monta\xF1ez"
+  - Kaye Redford
+  - Ramesh Natarajan
+  - Miguel Angel Medina
+  - Gregorio Gil
+  - William M. Pandak
+  publisher: Journal of Lipid Research
+  date: '2006-06-01'
+  link: https://doi.org/bmbdgz
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M602756200
+  title: Mathematical Modeling of Polyamine Metabolism in Mammals
+  authors:
+  - "Carlos Rodr\xEDguez-Caso"
+  - "Ra\xFAl Monta\xF1ez"
+  - Marta Cascante
+  - "Francisca S\xE1nchez-Jim\xE9nez"
+  - Miguel A. Medina
+  publisher: Journal of Biological Chemistry
+  date: '2006-08-01'
+  link: https://doi.org/bhb4mx
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Human StarD5: Localization and sterol-binding characteristics of a star-related
+    lipid transfer protein'
+  publisher: Gastroenterology
+  date: '2022-05-23'
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'StarD5: A novel cytosolic START domain protein capable of intracellular
+    directional transport of cholesterol to the Golgi/ER'
+  publisher: Hepatology
+  date: '2022-05-23'
+  orcid: 0000-0003-1667-2218
+  name: "Ra\xFAl Monta\xF1ez"
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
