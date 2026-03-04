@@ -1,192 +1,204 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1080/00318884.2026.2613632
+  title: "A mutation conferring sulphide-resistance in the cyanobacterium\n      \
+    \              <i>Microcystis aeruginosa</i>\n                    induces asymmetrical\
+    \ cell division"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  - "Mar\xEDa J. Garc\xEDa-S\xE1nchez"
+  - Antonio Flores-Moya
+  publisher: Phycologia
+  date: '2026-02-06'
+  link: https://doi.org/hbrfkm
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41467-025-58742-1
+  title: Mutualism breakdown underpins evolutionary rescue in an obligate cross-feeding
+    bacterial consortium
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - Yael Sorokin
+  - Ami Merlin
+  - Jiawei Li
+  - Alejandro Couce
+  - Jonathan Friedman
+  publisher: Nature Communications
+  date: '2025-04-12'
+  link: https://doi.org/g9g7vt
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.marenvres.2023.106006
+  title: Temporal and spatial variability in population traits of an intertidal fucoid
+    reveals local-scale climatic refugia
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - "Raquel S\xE1nchez de Pedro"
+  - "Andrea N. Fern\xE1ndez"
+  - "Ignacio Jos\xE9 Melero-Jim\xE9nez"
+  - "Mar\xEDa Jes\xFAs Garc\xEDa-S\xE1nchez"
+  - Antonio Flores-Moya
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  publisher: Marine Environmental Research
+  date: '2023-06-01'
+  link: https://doi.org/hbrfkn
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.scitotenv.2022.153467
+  title: 'Changes in the growth rate of Chlamydomonas reinhardtii under long-term
+    selection by temperature and salinity: Acclimation vs. evolution'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  - "Mar\xEDa J. Garc\xEDa-S\xE1nchez"
+  - Antonio Flores-Moya
+  publisher: Science of The Total Environment
+  date: '2022-05-01'
+  link: https://doi.org/gv47mt
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1007/s11120-021-00882-8
+  title: 'Photosynthetic performance in cyanobacteria with increased sulphide tolerance:
+    an analysis comparing wild-type and experimentally derived strains'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "Elena Mart\xEDn-Clemente"
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  - Antonio Flores-Moya
+  - "Mar\xEDa J. Garc\xEDa-S\xE1nchez"
+  publisher: Photosynthesis Research
+  date: '2021-11-22'
+  link: https://doi.org/hbrfkp
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.aquatox.2021.105973
+  title: Detection of the maximum resistance to the herbicides diuron and glyphosate,
+    and evaluation of its phenotypic cost, in freshwater phytoplankton
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  - Andreas Reul
+  - Antonio Flores-Moya
+  - "Mar\xEDa J. Garc\xEDa-S\xE1nchez"
+  publisher: Aquatic Toxicology
+  date: '2021-11-01'
+  link: https://doi.org/gvzpbj
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1080/09670262.2021.1896787
+  title: Dispersal of populations and environmental deterioration rate influence evolutionary
+    rescue under selection by salinity in the freshwater cyanobacterium <i>Microcystis
+    aeruginosa</i>
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - "Elena Mart\xEDn-Clemente"
+  - Andreas Reul
+  - "Mar\xEDa J. Garc\xEDa-S\xE1nchez"
+  - Antonio Flores-Moya
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  publisher: European Journal of Phycology
+  date: '2021-04-28'
+  link: https://doi.org/hbrfkq
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1002/ece3.7179
+  title: "The role of changes in environmental quality in multitrait plastic responses\
+    \ to environmental and social change in the model microalga\n                \
+    \    <i>Chlamydomonas reinhardtii</i>"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Ignacio J. Melero\u2010Jim\xE9nez"
+  - "Antonio Flores\u2010Moya"
+  - "Sin\xE9ad Collins"
+  publisher: Ecology and Evolution
+  date: '2021-01-27'
+  link: https://doi.org/gszt7n
+  orcid: 0000-0003-1570-3828
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.6257
+  title: The limit of resistance to salinity in the freshwater cyanobacterium <i>Microcystis
+    aeruginosa</i> is modulated by the rate of salinity increase
+  authors:
+  - "Ignacio Jos\xE9 Melero\u2010Jim\xE9nez"
+  - "Elena Mart\xEDn\u2010Clemente"
+  - "Mar\xEDa Jes\xFAs Garc\xEDa\u2010S\xE1nchez"
+  - "Elena Ba\xF1ares\u2010Espa\xF1a"
+  - "Antonio Flores\u2010Moya"
+  publisher: Ecology and Evolution
+  date: '2020-04-14'
+  link: https://doi.org/gp9xbm
+  orcid: 0000-0003-1570-3828
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/w12030883
+  title: What Triggers the Annual Cycle of Cyanobacterium Oscillatoria sp. in an Extreme
+    Environmental Sulfide-Rich Spa?
+  authors:
+  - Andreas Reul
+  - "Elena Mart\xEDn-Clemente"
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  - Antonio Flores-Moya
+  - "Mar\xEDa J. Garc\xEDa-S\xE1nchez"
+  publisher: Water
+  date: '2020-03-21'
+  link: https://doi.org/gv4rd9
+  orcid: 0000-0003-1570-3828
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jpy.12911
+  title: 'Adaptation dynamics and evolutionary rescue under sulfide selection in cyanobacteria:
+    a comparative study between <i>Microcystis aeruginosa</i> and <i>Oscillatoria</i>
+    sp. (cyanobacteria)'
+  authors:
+  - "Elena Mart\xEDn\u2010Clemente"
+  - "Ignacio J. Melero\u2010Jim\xE9nez"
+  - "Elena Ba\xF1ares\u2010Espa\xF1a"
+  - "Antonio Flores\u2010Moya"
+  - "Mar\xEDa J. Garc\xEDa\u2010S\xE1nchez"
+  publisher: Journal of Phycology
+  date: '2019-09-26'
+  link: https://doi.org/hbrfkr
+  orcid: 0000-0003-1570-3828
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/pre.12370
+  title: Adaptation of the toxic freshwater cyanobacterium <scp><i>Microcystis aeruginosa</i></scp>
+    to salinity is achieved by the selection of spontaneous mutants
+  authors:
+  - "Ignacio Jos\xE9 Melero\u2010Jim\xE9nez"
+  - "Elena Mart\xEDn\u2010Clemente"
+  - "Mar\xEDa Jes\xFAs Garc\xEDa\u2010S\xE1nchez"
+  - "Antonio Flores\u2010Moya"
+  - "Elena Ba\xF1ares\u2010Espa\xF1a"
+  publisher: Phycological Research
+  date: '2019-03-20'
+  link: https://doi.org/hbrfks
+  orcid: 0000-0003-1570-3828
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7717/peerj.4048
+  title: "North Atlantic Oscillation drives the annual occurrence of an isolated,\
+    \ peripheral population of the brown seaweed\n                    <i>Fucus guiryi</i>\n\
+    \                    in the Western Mediterranean Sea"
+  authors:
+  - "Ignacio J. Melero-Jim\xE9nez"
+  - A. Enrique Salvo
+  - "Jos\xE9 C. B\xE1ez"
+  - "Elena Ba\xF1ares-Espa\xF1a"
+  - Andreas Reul
+  - Antonio Flores-Moya
+  publisher: PeerJ
+  date: '2017-11-14'
+  link: https://doi.org/gpq5pk
+  orcid: 0000-0003-1570-3828
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +214,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +230,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
