@@ -1,9 +1,10 @@
 ---
 ---
 
-# LINMAR-Lab's Website
+# LINMAR-Lab
 
-An engaging 1-3 sentence description of your lab.
+LINMAR: Living Networks of Microbial Adaptation
+Inspired by the legacy of Lynn Margulis, the LINMAR Lab explores how microbial life thrives through cooperation and interconnectedness. We view the microbial world not as a collection of isolated individuals, but as dynamic, living networks that emerge, stabilize, and evolve. By integrating evolution, ecology, biochemistry, and computational biology, we work to untangle the rules of symbiogenesis and the principles governing adaptive dynamics in interacting communities.
 
 {% include section.html %}
 
