@@ -3,6 +3,7 @@ name: Ignacio J. Melero-Jiménez
 image: images/photo.jpg
 role: co-principal-investigator
 affiliation: University of Málaga
+email: imelero@uma.es
 aliases:
   - Ignacio José Melero-Jiménez
   - Ignacio J. Melero-Jiménez
