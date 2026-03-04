@@ -337,10 +337,10 @@
   group: featured
   description: "Structure in host\u2013pathogen infection networks reveals the coexistence\
     \ of nestedness and modularity in ecological systems."
-  image: https://www.nature.com/articles/s41559-020-1130-9/figures/1
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-020-1130-9/MediaObjects/41559_2020_1130_Fig1_HTML.png?as=webp
   buttons:
   - type: website
-    link: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-020-1130-9/MediaObjects/41559_2020_1130_Fig1_HTML.png?as=webp
+    link: https://www.nature.com/articles/s41559-020-1130-9
   tags:
   - ecological networks
   - host pathogen interactions
