@@ -10,6 +10,10 @@ aliases:
 links:
   home-page: https://www.uma.es/departments/teachers/ZVVHMDNIaWc1NjhTVXhyUGV1ekdPdz09/
   orcid: 0000-0003-1570-3828
+  google-scholar: M9xgu9cAAAAJ
+  github: ignamelero
+  twitter: ignamelero
+  bluesky: ignamelero.bsky.social
 ---
 
 I am currently an Assistant Professor at the University of Málaga, where I explore the evolution of photosynthetic microbes under stress. My research integrates experimental evolution, microbial ecology, and high-throughput sequencing techniques to understand how these organisms adapt to changing environmental conditions.
