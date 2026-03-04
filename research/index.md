@@ -1,42 +1,51 @@
+---
+title: Research
+nav:
+  order: 1
+  tooltip: Published works
+---
+
 {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Understanding how microbial communities adapt to environmental change.
+**How do microbial populations and communities persist—and evolve—under environmental stress?**  
+We integrate **experimental evolution**, **microbial ecology**, **high-throughput genomics**, and **theoretical + metabolic modelling (FBA)** to link mechanisms with eco-evolutionary outcomes. Our work focuses especially on **phototrophic microbes and their interaction partners**, where environmental change and metabolic dependencies jointly shape adaptation, stability, and collapse.
 
-Our research combines **experimental evolution, microbial ecology, mathematical modelling and metabolic network analysis** to uncover the mechanisms that govern adaptation and stability in microbial systems.
+---
 
-We focus particularly on **phototrophic microorganisms and microbial communities**, using controlled laboratory evolution, genomic analyses, and theoretical models to understand how ecological interactions shape evolutionary trajectories.
+## What we do
+
+### Evolutionary rescue under stress
+We study **evolutionary rescue**—when rapid adaptation prevents extinction as environments deteriorate.
+
+- Quantify rescue across stress gradients (e.g., salinity, sulphide, temperature)
+- Test how change rate, dispersal, and population structure alter rescue probability
+- Connect genotype to phenotype with time-resolved sequencing and trait assays
+
+### Microbial interactions and community stability
+Microbial communities are structured by **metabolic exchanges** (cross-feeding, cooperation, resource sharing).
+
+- Identify when mutualisms stabilize vs. break down under stress
+- Measure how interactions modulate adaptation and diversification
+- Map interaction regimes that promote persistence versus collapse
+
+### Mathematical and metabolic modelling
+We develop models to make eco-evolutionary dynamics **predictive**, not just descriptive.
+
+- Population and community models for adaptation, coexistence, and stability
+- Eco-evolutionary simulations of interaction-driven feedbacks
+- **Constraint-based metabolic modelling and flux balance analysis (FBA)** to infer limiting constraints and metabolic dependencies
+
+{% include section.html %}
+
+## Highlighted
+
+{% include citation.html lookup="doi:10.1038/s41467-025-58742-1" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41559-020-1130-9" style="rich" %}
 
 {% include section.html %}
 
-## Evolutionary rescue
+## All
 
-A central focus of the lab is **evolutionary rescue**—the process by which populations avoid extinction through rapid adaptation when environments deteriorate.  
-We investigate how factors such as environmental change rates, dispersal and community context influence the probability and dynamics of evolutionary rescue.
-
-{% include section.html %}
-
-## Microbial interactions
-
-Microbial communities are structured by **metabolic interactions between species**, including cross-feeding and cooperative resource exchange.
-
-Our work explores:
-
-- how microbial mutualisms emerge and collapse  
-- how metabolic dependencies influence adaptation  
-- how community structure shapes evolutionary outcomes  
-
-{% include section.html %}
-
-## Mathematical and metabolic modelling
-
-To complement experimental work, we develop **theoretical and computational models** of microbial systems.
-
-These include:
-
-- eco-evolutionary models of microbial populations  
-- community dynamics simulations  
-- **constraint-based metabolic models and flux balance analysis (FBA)**  
-
-These approaches allow us to predict how metabolic networks constrain growth, interaction regimes, and evolutionary trajectories.
-
-{% include section.html %}
+{% include search-box.html %}
+{% include search-info.html %}
+{% include list.html data="citations" component="citation" style="rich" %}
