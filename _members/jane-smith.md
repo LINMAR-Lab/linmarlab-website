@@ -1,20 +1,15 @@
 ---
-name: Jane Smith
+name: Ignacio J. Melero-Jiménez
 image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
+role: co-principal-investigator
+affiliation: University of Málaga
 aliases:
-  - J. Smith
-  - J Smith
+  - Ignacio José Melero-Jiménez
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.uma.es/departments/teachers/ZVVHMDNIaWc1NjhTVXhyUGV1ekdPdz09/
+  orcid: 0000-0003-1570-3828
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am currently an Assistant Professor at the University of Málaga, where I explore the evolution of photosynthetic microbes under stress. My research integrates experimental evolution, microbial ecology, and high-throughput sequencing techniques to understand how these organisms adapt to changing environmental conditions.
+
+I completed my PhD at the University of Málaga, focusing on the evolutionary rescue dynamics of photosynthetic microbes. Afterward, I was awarded a Margarita Salas postdoctoral fellowship, which allowed me to work in Dr. Jonathan Friedman's lab at the Hebrew University of Jerusalem, where I explored how microbial interactions affect evolutionary rescue. Following that, I moved to the Couce Lab at the Centre for Plant Biotechnology and Genomics in Spain, where I studied horizontal gene transfer, with a particular focus on DNA mismatch repair.
