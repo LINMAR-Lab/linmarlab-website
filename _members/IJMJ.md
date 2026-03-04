@@ -5,6 +5,7 @@ role: co-principal-investigator
 affiliation: University of Málaga
 aliases:
   - Ignacio José Melero-Jiménez
+  - Ignacio J. Melero-Jiménez
 links:
   home-page: https://www.uma.es/departments/teachers/ZVVHMDNIaWc1NjhTVXhyUGV1ekdPdz09/
   orcid: 0000-0003-1570-3828
