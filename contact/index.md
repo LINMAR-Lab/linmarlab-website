@@ -5,73 +5,100 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %} Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research group is based at the **Faculty of Science of the University of Málaga (Spain)**.  
+The lab brings together researchers from the **Department of Botany and Plant Physiology** and the **Department of Molecular Biology and Biochemistry**, combining experimental and theoretical approaches to understand how biological systems evolve and interact.
+
+We work primarily on **microbial ecology, experimental evolution, and mathematical modelling of biological systems**, but we are always happy to explore **new ideas, interdisciplinary collaborations, and emerging research directions**.
+
+If you are interested in collaboration, student projects, or joining the lab, please feel free to get in touch.
+
+{% include section.html %}
+
+## Principal Investigators
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="Ignacio J. Melero-Jiménez — imelero@uma.es"
+  link="mailto:imelero@uma.es"
 %}
+
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+34 952 133 341"
+  link="+34952133341"
 %}
+
 {%
   include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  type="website"
+  text="Ignacio Melero — Bluesky"
+  link="https://bsky.app/profile/ignamelero.bsky.social"
+%}
+
+---
+
+{%
+  include button.html
+  type="email"
+  text="Raúl Montañez — raulemm@uma.es"
+  link="mailto:raulemm@uma.es"
+%}
+
+{%
+  include button.html
+  type="phone"
+  text="+34 952 132 040"
+  link="+34952132040"
+%}
+
+{%
+  include button.html
+  type="website"
+  text="Raúl Montañez — Personal website"
+  link="https://raulemm.github.io/"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
+## Address
+
+Faculty of Science  
+University of Málaga  
+Campus de Teatinos  
+29071 Málaga  
+Spain
 
 {%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  include button.html
+  type="address"
+  tooltip="Open location in Google Maps"
+  link="https://maps.google.com/?q=Facultad+de+Ciencias+Universidad+de+Malaga"
 %}
 
-{% endcapture %}
+{% include section.html %}
 
-{% capture col2 %}
+## Join or collaborate with us
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+We welcome students and researchers interested in topics such as:
 
-{% endcapture %}
+- microbial ecology and evolution  
+- experimental evolution  
+- microbial interactions and community dynamics  
+- mathematical and computational modelling  
+- metabolic network analysis and flux balance analysis  
 
-{% include cols.html col1=col1 col2=col2 %}
+We are also very open to **interdisciplinary ideas and collaborations beyond these areas**. Science often advances at the boundaries between fields, and we enjoy exploring new directions together with colleagues from different backgrounds.
 
-{% include section.html dark=true %}
+Prospective **BSc, MSc, and PhD students**, as well as **postdoctoral researchers**, are encouraged to contact us including:
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
+- a short description of research interests  
+- a CV  
+- relevant academic information (for students)
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
+{% include section.html %}
 
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+![Faculty of Science – University of Málaga](images/malaga-campus.jpg)
