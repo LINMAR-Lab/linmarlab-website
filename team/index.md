@@ -24,6 +24,13 @@ Together, the lab integrates **experimental and theoretical approaches** to unde
 
 {% include section.html %}
 
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" caption="Lab life" %}
+{% include figure.html image="images/photo.jpg" caption="Modelling" %}
+
+{% endcapture %}
+
 ## Team members
 
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
