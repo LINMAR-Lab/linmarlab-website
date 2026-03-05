@@ -19,7 +19,6 @@
     {% for link in site.links %}
       {% assign key = link[0] %}
       {% assign value = link[1] %}
-      {% assign value = link[2] %}
       {% include button.html type=key text="" link=value style="bare" %}
     {% endfor %}
   </div>
