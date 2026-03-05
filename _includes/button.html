@@ -15,9 +15,16 @@
       {% endif %}
       aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
     >
-      {% include icon.html icon=button.icon %}
-      {% if button.text and button.text != "" %}
-        <span>{{ button.text }}</span>
+      {% if include.flip %}
+        {% if button.text and button.text != "" %}
+          <span>{{ button.text }}</span>
+        {% endif %}
+        {% include icon.html icon=button.icon %}
+      {% else %}
+        {% include icon.html icon=button.icon %}
+        {% if button.text and button.text != "" %}
+          <span>{{ button.text }}</span>
+        {% endif %}
       {% endif %}
     </a>
   </div>
