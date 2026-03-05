@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="research"
   icon="fa-solid fa-arrow-left"
   text="See our publications"
-  flip=true
+  flip=false
   style="bare"
 %}
 
