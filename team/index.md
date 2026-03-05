@@ -13,3 +13,13 @@ Ignacio J. Melero-Jiménez focuses on **experimental evolution and microbial eco
 Together, the lab integrates **experimental and theoretical approaches** to understand how ecological interactions, metabolic dependencies, and environmental change shape evolutionary dynamics.
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" %} {% include figure.html image="images/photo.jpg" %} {% include figure.html image="images/photo.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
