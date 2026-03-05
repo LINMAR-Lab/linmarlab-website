@@ -13,7 +13,7 @@ Inspired by the legacy of Lynn Margulis, the LINMAR Lab explores how microbial l
 
 {% capture text %}
 
-## Decoding Cooperation: Resilience in a Changing World
+### Decoding Cooperation: Resilience in a Changing World
 
 What holds life together when the environment shifts? We explore the hidden partnerships between cyanobacteria and bacterial communities to explore the evolutionary paradox of mutualism. By linking genomic evolution to ecological outcomes, we are mapping the roadmap for Ecological Resilience and the Green Transition.
 
